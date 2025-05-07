@@ -6,7 +6,7 @@ from telebot import types
 
 class HardBotGame:
     def __init__(self):
-        self.bot = telebot.TeleBot("7915741017:AAFY-U5cSl7bcEJQvGjzXqzSNo8V8NqtdvE")
+        self.bot = telebot.TeleBot("YOUR_TOKEN")
 
         self.bot_health = 150
         self.player_health = 150
