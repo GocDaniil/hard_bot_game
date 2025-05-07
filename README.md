@@ -1,2 +1,2 @@
-# Fight a bot by choosing an action.
-This bot is a small console game in which you have to defeat your opponent by choosing an action (sword, bow, shield, etc). He is not easy to defeat, he has very good intelligence on the principle of conditions.
+# Fight a Bot by Choosing Your Action
+This is a small console game where you battle an AI opponent by selecting actions like sword, bow, shield, or other tools. The bot is tough to beat, relying on a dynamic if-else logic system that reacts to your moves in real time. The bot is written in Python
